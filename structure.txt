@@ -1,0 +1,19 @@
+BloodBankManagementSystem/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── donor_manager.py
+├── inventory_manager.py
+├── request_manager.py
+├── report_manager.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    ├── donors.json
+    ├── donations.json
+    ├── inventory.json
+    └── requests.json
